@@ -18,22 +18,20 @@ I am an IT Cloud DevOps Specialist from Madison, Wisconsin.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JHops881&theme=darkhub&no-frame=true" alt="something" /></a> </p>
 
 
-### My Technologies
+### The Tools I Use
 
-| Use | Tool |
-|-----|------|
-| Scripting Languages | ![Python & Bash](https://skillicons.dev/icons?i=python,bash) |
-| Cloud | ![AWS & Azure](https://skillicons.dev/icons?i=aws,azure) |
-| CI/CD | ![Jenkins](https://skillicons.dev/icons?i=jenkins) <img src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" alt="Azure DevOps" width="40"/> ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) |
-| Automation | ![Ansible](https://skillicons.dev/icons?i=ansible) <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="AWS Lambda" width="40"/> |
-| Infrastructure as Code | ![Terraform](https://skillicons.dev/icons?i=terraform) <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" alt="CloudFormation" width="40"/> |
-| Backend | ![FastAPI](https://skillicons.dev/icons?i=fastapi) <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" alt="NGINX" width="40"/>|
-| Frontend | ![Next.js, HTML5 & Tailwind](https://skillicons.dev/icons?i=nextjs,html,tailwind) |
-| Database | ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| Monitoring | ![Grafana](https://skillicons.dev/icons?i=grafana) <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" alt="CloudWatch" width="40"/> |
-| Containerization | ![Docker](https://skillicons.dev/icons?i=docker) |
-| Version Control | ![Git & GitHub](https://skillicons.dev/icons?i=git,github) |
-| Other | ![Linux, RHEL, Windows](https://skillicons.dev/icons?i=linux,redhat,windows) <img src="https://icon.icepanel.io/Technology/svg/vSphere.svg" alt="vSphere" width="40"/> |
+![Python & Bash](https://skillicons.dev/icons?i=python,bash)
+![AWS & Azure](https://skillicons.dev/icons?i=aws,azure)
+![Jenkins](https://skillicons.dev/icons?i=jenkins) <img src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" alt="Azure DevOps" width="40"/> ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Ansible](https://skillicons.dev/icons?i=ansible) <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="AWS Lambda" width="40"/>
+![Terraform](https://skillicons.dev/icons?i=terraform) <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" alt="CloudFormation" width="40"/>
+![FastAPI](https://skillicons.dev/icons?i=fastapi) <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" alt="NGINX" width="40"/>
+![Next.js, HTML5 & Tailwind](https://skillicons.dev/icons?i=nextjs,html,tailwind)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Grafana](https://skillicons.dev/icons?i=grafana) <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" alt="CloudWatch" width="40"/>
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git & GitHub](https://skillicons.dev/icons?i=git,github)
+![Linux, RHEL, Windows](https://skillicons.dev/icons?i=linux,redhat,windows) <img src="https://icon.icepanel.io/Technology/svg/vSphere.svg" alt="vSphere" width="40"/>
 
 
 <details>
