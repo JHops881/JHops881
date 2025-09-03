@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Joseph
 
-I am an IT Cloud DevOps Specialist from Madison, Wisconsin. 
+I am an looking to enter into the Cloud DevOps and Automation space--from Madison, Wisconsin. 
 - 🔭 I’m currently working on [Yuxi Boss, a prestudying tool for learning Mandarin Chinese](https://github.com/JHops881/yuxi-boss)
-- 🌱 I’m currently learning **C# and .NET Core with Avalonia UI**
+- 🌱 I’m currently learning **JavaScript, Electron with Vite, and React**
 - 🤝 I’m looking for help with **Learning Kubernetes, ArgoCD, and OpenShift**
 - 💬 Ask me about **Anything!**
 
@@ -18,20 +18,28 @@ I am an IT Cloud DevOps Specialist from Madison, Wisconsin.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JHops881&theme=darkhub&no-frame=true" alt="something" /></a> </p>
 
 
-### The Tools I Use
+### The Tools I'm Strongest WIth
 
-![Python & Bash](https://skillicons.dev/icons?i=python,bash)
-![AWS & Azure](https://skillicons.dev/icons?i=aws,azure)
-![Jenkins](https://skillicons.dev/icons?i=jenkins) <img src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" alt="Azure DevOps" width="40"/> ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-![Ansible](https://skillicons.dev/icons?i=ansible) <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="AWS Lambda" width="40"/>
+![Python](https://skillicons.dev/icons?i=python)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Ansible](https://skillicons.dev/icons?i=ansible)
 ![Terraform](https://skillicons.dev/icons?i=terraform) <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" alt="CloudFormation" width="40"/>
+![Grafana](https://skillicons.dev/icons?i=grafana) 
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git & GitHub](https://skillicons.dev/icons?i=git,github)
+![Linux, RHEL, Windows](https://skillicons.dev/icons?i=linux,redhat,windows)
+
+### Other Tools I Use (or Have Used)
+
+![Bash](https://skillicons.dev/icons?i=bash)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Jenkins](https://skillicons.dev/icons?i=jenkins) <img src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" alt="Azure DevOps" width="40"/>
+<img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="AWS Lambda" width="40"/>
 ![FastAPI](https://skillicons.dev/icons?i=fastapi) <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" alt="NGINX" width="40"/>
 ![Next.js, HTML5 & Tailwind](https://skillicons.dev/icons?i=nextjs,html,tailwind)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Grafana](https://skillicons.dev/icons?i=grafana) <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" alt="CloudWatch" width="40"/>
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git & GitHub](https://skillicons.dev/icons?i=git,github)
-![Linux, RHEL, Windows](https://skillicons.dev/icons?i=linux,redhat,windows) <img src="https://icon.icepanel.io/Technology/svg/vSphere.svg" alt="vSphere" width="40"/>
+<img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" alt="CloudWatch" width="40"/>
 
 
 <details>
