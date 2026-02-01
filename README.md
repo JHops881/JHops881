@@ -1,52 +1,5 @@
-# 👋 Hi, I'm Joseph
+# Hi, I'm Joseph
 
-I am an looking to enter into the Cloud DevOps and Automation space--from Madison, Wisconsin. 
-- 🔭 I’m currently working on [Yuxi Boss, a prestudying tool for learning Mandarin Chinese](https://github.com/JHops881/yuxi-boss)
-- 🌱 I’m currently learning **JavaScript, Electron with Vite, and React**
-- 🤝 I’m looking for help with **Learning Kubernetes, ArgoCD, and OpenShift**
-- 💬 Ask me about **Anything!**
+I really like writing code--like a lot. I am biased towards C++, it has a [je ne sais quoi](https://www.merriam-webster.com/dictionary/je%20ne%20sais%20quoi). For fun I like to do/think about API desgin and add obnoxiously pretty comments.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=something&label=Profile%20views&color=0e75b6&style=flat" alt="JHops881 Profile Views" /> </p>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JHops881&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JHops881&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JHops881&theme=darkhub&no-frame=true" alt="something" /></a> </p>
-
-
-### The Tools I'm Strongest WIth
-
-![Python](https://skillicons.dev/icons?i=python)
-![AWS](https://skillicons.dev/icons?i=aws)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-![Ansible](https://skillicons.dev/icons?i=ansible)
-![Terraform](https://skillicons.dev/icons?i=terraform) <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" alt="CloudFormation" width="40"/>
-![Grafana](https://skillicons.dev/icons?i=grafana) 
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git & GitHub](https://skillicons.dev/icons?i=git,github)
-![Linux, RHEL, Windows](https://skillicons.dev/icons?i=linux,redhat,windows)
-
-### Other Tools I Use (or Have Used)
-
-![Bash](https://skillicons.dev/icons?i=bash)
-![Azure](https://skillicons.dev/icons?i=azure)
-![Jenkins](https://skillicons.dev/icons?i=jenkins) <img src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" alt="Azure DevOps" width="40"/>
-<img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="AWS Lambda" width="40"/>
-![FastAPI](https://skillicons.dev/icons?i=fastapi) <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" alt="NGINX" width="40"/>
-![Next.js, HTML5 & Tailwind](https://skillicons.dev/icons?i=nextjs,html,tailwind)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-<img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" alt="CloudWatch" width="40"/>
-
-
-<details>
-<summary> Credit </summary>
-
-* Icons from [skillicons.dev](https://skillicons.dev)
-* AWS service icons from [aws icons](https://aws-icons.com/) which sourced from https://aws.amazon.com/architecture/icons/ and are wholly owned by Amazon Web Services, Inc.
-* other icons sources from https://github.com/devicons/devicon
-
-</details>
